@@ -1,18 +1,18 @@
-# 🐙 GitHub User Activity CLI (Java)
+# GitHub User Activity CLI (Java)
 
 A simple **command-line Java application** that fetches and displays a GitHub user's **recent public activity** using the [GitHub REST API](https://docs.github.com/en/rest).  
 
-## 🚀 Features
+## Features
 - Fetches recent public GitHub activity for any username  
 - Parses and displays a clean, readable summary in the terminal  
 - Handles errors (invalid username, connection issues, etc.)  
 - Uses only **core Java classes** (`HttpURLConnection`, `BufferedReader`, `URI`, etc.)
 
-## 🧰 Requirements
+## Requirements
 - **Java 20** or later  
 - Internet connection (to reach the GitHub API)
 
-## ⚙️ How to Run
+##  How to Run
 
 ### 1. Compile
 ```bash
